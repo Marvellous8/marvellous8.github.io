@@ -157,6 +157,11 @@
         gap: 0.7rem;
     } 
     
+    .team__container{
+        grid-template-columns: 1fr 1fr;
+        gap: 0.7rem;
+    }
+    
     .team__member{
         padding: 0;
     }
